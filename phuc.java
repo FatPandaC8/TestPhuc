@@ -6,4 +6,7 @@ public class phuc {
     public static int takeNumber() {
         return 100;
     }
+    public static int getNumber() {
+        return 1;
+    }
 }
